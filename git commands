@@ -1,0 +1,8 @@
+First of all you have to initialie your code by using -> git init
+Add all the changes you have made by using            -> git add .
+You have to make sure that you are taking the 
+authorization of that code by using                   -> git config user.name "your github user name"
+Also add the github account email by using            -> git config user.email "your github email"
+After that commit your changes by using               -> git commit -m "write changes here"
+Now connect you local repo with github repo by using  -> git remote add origin "your repo link"
+push your code to the main branch                     -> git push -u origin main
